@@ -41,3 +41,6 @@ Restart Claude Code, then type **`/motion-clone`**.
 ## Notes
 - Flow submits on every line break, so the skill always writes each prompt as one line.
 - If Flow shows *"We noticed some unusual activity"*, the skill stops automating and gives you the prompts instead. It never works around Flow's protections.
+
+## License
+MIT, see [LICENSE](LICENSE).
